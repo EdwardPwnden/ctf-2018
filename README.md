@@ -5,6 +5,6 @@ Local organizing could be by category, and then by task, either as directories o
 
 ## CTF list:
 
-- [Norwegian CyberSecurity Championship](./ncsc18)
+- [Norwegian Cyber Security Challenge](./ncsc18)
 
 
